@@ -4,10 +4,10 @@ Native app required for the YouTubeChapterShortcuts Firefox extension.
 The shortcuts work even if Firefox and the YouTube tab is unfocused.
 
 # Instructions
-- Add the YouTubeChapterShortcuts extension to Firefox.
 - Download this repository and unzip the contents to a folder.
-- Run 'setup.bat'. (The path will be added to the registry and 'com.crambone.nativeapp.json' will be modified. Don't move the files after you run setup.) 
+- Run 'setup.bat'. (The path will be added to the registry and 'com.crambone.nativeapp.json' will be modified. **Don't move the files after you run setup.**) 
 - (Optional) Customize the shortcuts in 'config.json'. (uses [pynput](https://pynput.readthedocs.io/en/latest/keyboard.html)).
+- Add the YouTubeChapterShortcuts extension to Firefox.
 
 **The default shortcuts are:**
 - ctrl + (Comma): Previous chapter
