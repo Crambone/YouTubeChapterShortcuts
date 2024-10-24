@@ -1,0 +1,9 @@
+{
+    "name": "com.crambone.nativeapp",
+    "description": "Native app for firefox",
+    "path": "D:\\_Documents\\YouTubeChapterShortcuts\\native-app.exe",
+    "type": "stdio",
+    "allowed_extensions": [
+        "youtube_chapter_shortcuts@crambone"
+    ]
+}
