@@ -1,5 +1,5 @@
 # YouTubeChapterShortcuts
-Native app required for the YouTubeChapterShortcuts Firefox extension.
+Native app required for the [YouTubeChapterShortcuts](https://addons.mozilla.org/en-US/firefox/addon/youtube-chapter-shortcuts/) Firefox extension. 
 
 The shortcuts work even if Firefox and the YouTube tab is unfocused.
 
